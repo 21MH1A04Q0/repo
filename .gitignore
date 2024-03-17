@@ -1,0 +1,8 @@
+# .gitignore
+node_modules/
+hint-report/
+testing.html
+testing.js
+testing.js.map
+node_modules
+
